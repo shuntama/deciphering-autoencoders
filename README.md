@@ -1,4 +1,7 @@
 # deciphering-autoencoders
+<https://arxiv.org/abs/2310.01712>
+
+![Generated CIFAR-10 samples](samples.png "samples")
 
 ### Dataset
 Download CIFAR-10 and store it in folder `./dataset`.<br>
