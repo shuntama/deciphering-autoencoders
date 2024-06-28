@@ -1,8 +1,12 @@
 # deciphering-autoencoders
-<https://arxiv.org/abs/2310.01712>
 
-![Generated CIFAR-10 samples](samples_cifar10.png "samples_cifar10")  
-![Generated CelebA samples](samples_celeba.png "samples_celeba")
+[arXiv](https://arxiv.org/abs/2310.01712)
+
+#### CIFAR-10 random generation
+![Generated CIFAR-10 samples](samples_cifar10.png)
+
+#### CelebA random generation
+![Generated CelebA samples](samples_celeba.png)
 
 ### Dataset
 Download CIFAR-10 and store it in folder `./dataset`.<br>
