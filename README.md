@@ -1,7 +1,8 @@
 # deciphering-autoencoders
 <https://arxiv.org/abs/2310.01712>
 
-![Generated CIFAR-10 samples](samples.png "samples")
+![Generated CIFAR-10 samples](samples_cifar10.png "samples_cifar10")  
+![Generated CelebA samples](samples_celeba.png "samples_celeba")
 
 ### Dataset
 Download CIFAR-10 and store it in folder `./dataset`.<br>
@@ -18,6 +19,9 @@ args.warmup = False \
 args.shift_range = 0 \
 args.weight_path = 'PATH to initially trained model' \
 ```
+
+### Training (CelebA)
+Please refer to the paper.
 
 ### Testing
 Run `sample.py`.
